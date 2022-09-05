@@ -1,0 +1,57 @@
+
+
+.header {
+    margin-bottom: 50px;
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+}
+
+a {
+    text-decoration: none;
+   font-size: 19px;
+   color: black;
+   padding: 10px;
+}
+
+.big-container {
+    background-color: lightsteelblue;
+    padding: 80px;
+}
+
+
+box {
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gray;
+    width: 20%;
+}
+
+.my-col {
+    text-align: center;
+}
+
+.footer{
+    background-color: grey;
+    color: azure;
+}
+
+.footer-text {
+   padding-top: 40px;
+   text-align: center;
+}
+
+.card {
+    border: 3px solid white;
+    margin: auto;
+}
+
+.copyright {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+
